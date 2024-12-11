@@ -21,3 +21,14 @@ h1{
     margin-left: 220px;
     box-shadow: 0 4px 4px rgba(0,0,0,0.1);
 }
+
+#display{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    position: relative;
+    bottom: 150px;
+    color: #3d207c;
+}
